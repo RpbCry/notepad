@@ -18,7 +18,9 @@ Open a terminal or command prompt and navigate to the directory containing notep
 Create a Python virtual environment (optional but recommended).
 Activate the virtual environment (if you created one).
 Run the Notepad application using the following command:
+```
 python notepad.py
+```
 
 ## Usage
 After running the application, you will see a simple GUI window with a text area.
